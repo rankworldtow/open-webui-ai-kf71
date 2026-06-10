@@ -1,4 +1,4 @@
-# 
+# Natif Open WebUI flux de travail. Avec mémoire contextuelle et architecture évolutive — optimisé pour des performances et une efficacité maximales.
 
 
 
